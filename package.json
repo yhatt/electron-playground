@@ -1,0 +1,19 @@
+{
+  "name": "yhatt-electron-playground",
+  "version": "0.0.0",
+  "description": "This is my playground of Electron",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhatt/electron-playground"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "keywords": [],
+  "author": "Yuki Hattori",
+  "license": "WTFPL",
+  "devDependencies": {
+    "electron-prebuilt": "1.2.8"
+  }
+}
