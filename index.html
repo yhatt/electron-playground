@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Electron Playground</title>
+  <style>
+    html, body, #container {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+    }
+    #container {
+      display: flex;
+    }
+    #container > * {
+      flex: 1;
+    }
+    #markdown {
+      resize: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <textarea id="markdown"></textarea>
+    <textarea id="result" readonly></textarea>
+  </div>
+  <script src="./index.js"></script>
+</body>
+</html>

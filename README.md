@@ -6,13 +6,17 @@ This is my playground of [Electron](http://electron.atom.io/). For feedback to o
 
 ### I'm trying to
 
+- **markdown-it renderer to [Incremental DOM](https://github.com/google/incremental-dom)**
+
+#### :sweat:
+
 - Continuous integration with [Travis CI](https://travis-ci.org/)
 - Unit & E2E Test with [AVA](https://github.com/avajs/ava) + ES2015 (powered by [Babel](https://babeljs.io/))
 
 ### In future I want to try
 
 - [Web Components](https://www.w3.org/standards/techs/components)
-- [React](https://facebook.github.io/react/index.html)
+- ~~[React](https://facebook.github.io/react/index.html)~~
 
 ---
 
