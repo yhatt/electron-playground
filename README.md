@@ -7,6 +7,7 @@ This is my playground of [Electron](http://electron.atom.io/). For feedback to o
 ### I'm trying to
 
 - **markdown-it renderer to [Incremental DOM](https://github.com/google/incremental-dom)**
+- [Web Components](https://www.w3.org/standards/techs/components)
 
 #### :sweat:
 
@@ -15,7 +16,6 @@ This is my playground of [Electron](http://electron.atom.io/). For feedback to o
 
 ### In future I want to try
 
-- [Web Components](https://www.w3.org/standards/techs/components)
 - ~~[React](https://facebook.github.io/react/index.html)~~
 
 ---
